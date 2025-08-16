@@ -17,8 +17,8 @@ A web-based tool built with **Flask** that lets users search for books and get r
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/Akankshadarshan/CANTILEVER2.git
-   cd CANTILEVER2
+   git clone https://github.com/Akankshadarshan/Book-Price-Scraper.git
+   cd Book-Price_Scraper
 Install requirements:
 
 bash
@@ -47,4 +47,4 @@ static/ – CSS, background, icons
 
 🧑‍💻 Author
 Akanksha Darshan
-Built for the CantiLever Internship
+
