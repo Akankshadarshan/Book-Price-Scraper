@@ -18,7 +18,7 @@ A web-based tool built with **Flask** that lets users search for books and get r
 1. **Clone the repo:**
    ```bash
    git clone https://github.com/Akankshadarshan/Book-Price-Scraper.git
-   cd Book-Price_Scraper
+   cd Book-Price-Scraper
 Install requirements:
 
 bash
