@@ -39,11 +39,11 @@ Edit
 (http://127.0.0.1:5000)
 
 📁 Project Files
-app.py – Flask app
-scraper.py – Scraping logic
-utils.py – Excel saving & chart
-templates/ – HTML files
-static/ – CSS, background, icons
+- app.py – Flask app
+- scraper.py – Scraping logic
+- utils.py – Excel saving & chart
+- templates/ – HTML files
+- static/ – CSS, background, icons
 
 
 
