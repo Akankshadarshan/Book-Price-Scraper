@@ -45,6 +45,5 @@ utils.py – Excel saving & chart
 templates/ – HTML files
 static/ – CSS, background, icons
 
-🧑‍💻 Author
-Akanksha Darshan
+
 
